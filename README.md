@@ -1,4 +1,4 @@
-# An Amazon-like storefront with the MySQL
+# An Amazon-like storefront with  MySQL
 
 This app has Three parts
 
