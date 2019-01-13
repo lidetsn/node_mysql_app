@@ -45,7 +45,7 @@ This app has Three parts
 
 i attached the link to the video of how the app is working, you can also find the screenshot of each for your reference !!
 
-https://drive.google.com/file/d/1dqb3xvQAZFUMFtIzUvUo0TZtU6bKzFlC/view
+video:   https://drive.google.com/file/d/1dqb3xvQAZFUMFtIzUvUo0TZtU6bKzFlC/view
 
 Enjoy
 
