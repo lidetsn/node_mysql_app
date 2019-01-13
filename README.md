@@ -1,10 +1,11 @@
 # An Amazon-like storefront with the MySQL
 
 This app has Three parts
+
  #1: Customer View 
 
-     Running this application will first display all of the items available for sale. 
-     Include the ids, names, and prices of products for sale.
+   Running this application will first display all of the items available for sale. 
+   Include the ids, names, and prices of products for sale.
 
 . The app  then prompt users with two messages.
 
@@ -21,6 +22,7 @@ This app has Three parts
 
 
  #2: Manager View
+ 
   * If a manager selects `View Products for Sale`, the app lists every available item: the item IDs, names, prices, and quantities.
 
   * If a manager selects `View Low Inventory`, then it  list all items with an inventory count lower than five.
@@ -31,7 +33,7 @@ This app has Three parts
 
   #3: Supervisor View
 
-        Running this application will list a set of menu options:
+   Running this application will list a set of menu options:
 
    * View Product Sales by Department
    
