@@ -41,10 +41,15 @@ This app has Three parts
 
       * When a supervisor selects `View Product Sales by Department`, the app  display a summarized table in their terminal/bash window.
       * If a supervisor selects `create New Department`, it  allows the supervisor to add a completely new department.
-
+      
+# instalation Guid
+       * you will need to have mysql, Node.js and NPM installed locally,
+         or you will need access to an environment that already has them installed. We will also be using the Command Prompt (Windows) /          Terminal (Mac) to install the required packages, and to start/stop our Node server.
+       * run schema.sql and seed.sql to create your DataBase and Tables in mysql db
+       * run npm install using the Command Prompt (Windows) / Terminal (Mac) to install the required packages
 
 i attached the link to the video of how the app is working, you can also find the screenshot of each for your reference !!
- * you can find all the dependencies in package.json you need only to run npm install
+ 
  
 video:   https://drive.google.com/file/d/1dqb3xvQAZFUMFtIzUvUo0TZtU6bKzFlC/view
 
