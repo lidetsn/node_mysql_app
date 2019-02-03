@@ -44,7 +44,8 @@ This app has Three parts
 
 
 i attached the link to the video of how the app is working, you can also find the screenshot of each for your reference !!
-
+ * you can find all the dependencies in package.json you need only to run npm install
+ 
 video:   https://drive.google.com/file/d/1dqb3xvQAZFUMFtIzUvUo0TZtU6bKzFlC/view
 
 Enjoy
