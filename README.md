@@ -44,7 +44,9 @@ This app has Three parts
       
 # instalation Guid
        * you will need to have mysql, Node.js and NPM installed locally,
-         or you will need access to an environment that already has them installed. We will also be using the Command Prompt (Windows) /          Terminal (Mac) to install the required packages, and to start/stop our Node server.
+         or you will need access to an environment that already has them installed. 
+         you will also be using the Command Prompt (Windows)  Terminal (Mac) to install the required packages,
+         and to start/stop the Node server.
        * run schema.sql and seed.sql to create your DataBase and Tables in mysql db
        * run npm install using the Command Prompt (Windows) / Terminal (Mac) to install the required packages
 
