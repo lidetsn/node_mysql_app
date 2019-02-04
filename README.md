@@ -59,7 +59,7 @@ This app has Three parts
    *java script/jquery
 
    
-# instalation Guid
+# installation guide
        * you will need to have mysql, Node.js and NPM installed locally,
          or you will need access to an environment that already has them installed. 
          you will also be using the Command Prompt (Windows)  Terminal (Mac) to install the required packages,
