@@ -1,5 +1,7 @@
 # An Amazon-like storefront with  MySQL
 
+ The app will take in orders from customers and deplete stock from the store's inventory.it also track product sales across the store's departments and then provide a summary of the highest-grossing departments in the store.
+ 
 This app has Three parts
 
  #1: Customer View 
