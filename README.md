@@ -65,7 +65,8 @@ This app has Three parts
          you will also be using the Command Prompt (Windows)  Terminal (Mac) to install the required packages,
          and to start/stop the Node server.
        * run schema.sql and seed.sql to create your DataBase and Tables in mysql db
-       *set your connection to match your Database in bamazonCustomer.js,	bamazonManager.js and bamazonSupervisor.js 
+       *set your connection to match your Database in bamazonCustomer.js,	
+         bamazonManager.js and bamazonSupervisor.js 
        * run npm install using the Command Prompt (Windows) / Terminal (Mac) to install the required packages
 
 i attached the link to the video of how the app is working, you can also find the screenshot of each for your reference !! 
